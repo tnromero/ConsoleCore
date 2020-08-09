@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pPGQwz6SVyyfpm9F4bGCuMkt/mhdQFvRMzNz0VfUh2/PTbUXiDwNYIM2N+72ap8rExZ0r3sNMLzQAM85HdzDuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Romero\\git\\TreinamentoUdemy\\ConsoleCore\\GameTOP.Interface\\GameTOP.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Romero\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Romero\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
